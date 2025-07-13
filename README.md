@@ -2,6 +2,6 @@
 
 Starter project
 
-this is a change makeing a change
+this is a change making a change
 
 Laura change
